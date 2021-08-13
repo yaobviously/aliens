@@ -1,2 +1,2 @@
 # aliens
-Aliens Data
+Analysing reports of aliens sightings from the NUFORC database.
